@@ -51,6 +51,8 @@ dsa4060-week1-recommender/
 
 ## Screenshot
 The notebook saves the Top 10 chart to `images/top10_recommendations.png`.
+<img width="1483" height="884" alt="image" src="https://github.com/user-attachments/assets/69a66754-0869-4d68-be78-67ee17be21db" />
+
 
 ## Dataset attribution
 MovieLens latest-small is provided by GroupLens Research. Retain the dataset README/licence information when distributing permitted dataset files.
