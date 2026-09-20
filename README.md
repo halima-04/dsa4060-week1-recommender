@@ -2,7 +2,7 @@
 
 ## Student
 - Name: Halima Mahdi
-- Student number: [Enter your student number]
+- Student number: 670315
 
 ## Project overview
 This project explores MovieLens user-item ratings and builds two non-personalized movie recommendation baselines:
