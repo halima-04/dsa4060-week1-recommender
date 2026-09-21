@@ -3,7 +3,6 @@
 ## Student
 
 - **Name:** Halima Mahdi
-- **Student Number:** 670315
 - **Course:** DSA 4060 – Recommender Systems
 - **Practical:** Week 1 – Build and Publish a Popularity Based Movie Recommender
 
