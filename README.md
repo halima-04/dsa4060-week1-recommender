@@ -242,6 +242,16 @@ The minimum-rating method focuses on movies that have at least 50 ratings and th
 
 The weighted-rating method considers both the average rating and the number of ratings. This helps reduce the influence of movies that have very high average ratings but very little rating evidence.
 
+
+## Results Visualization
+
+### Top 10 Movie Recommendations
+
+
+<img width="1483" height="884" alt="image" src="https://github.com/user-attachments/assets/e77014d2-73e8-4f13-a651-bd59d61917ce" />
+
+
+
 ## Key Findings
 
 1. The dataset contains **610 users and 9,742 movies**.
