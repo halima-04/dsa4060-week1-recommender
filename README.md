@@ -2,7 +2,7 @@
 
 ## Student
 
-- **Name:** Halima Mahdi
+- **Name:** Halima Mohammed
 - **Course:** DSA 4060 – Recommender Systems
 - **Practical:** Week 1 – Build and Publish a Popularity Based Movie Recommender
 
